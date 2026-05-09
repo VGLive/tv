@@ -504,4 +504,16 @@
     });
   <\/script>
 </body>
+</html>`;
+
+            const blob = new Blob([playerCode], { type: 'text/html' });
+            const blobUrl = URL.createObjectURL(blob);
+            window.open(blobUrl, '_blank');
+        }
+
+        // Start App
+        fetchChannels();
+    </script>
+
+</body>
 </html>
