@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FailArmy.us@US",Big Boss
-https://vt-ip.vodep39240327.workers.dev/2877.m3u8
-#EXTINF:-1 tvg-id="GoUSATV.us@SD",Hindi Hits
-https://vt-ip.vodep39240327.workers.dev/1958.m3u8
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD",Vision Beats
-https://vt-ip.vodep39240327.workers.dev/1955.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us@India",All Day Movies
-https://vt-ip.vodep39240327.workers.dev/2525.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.in@SD",Bollywood Latest Movies 1
-https://vt-ip.vodep39240327.workers.dev/2528.m3u8
-#EXTINF:-1 https://www.svgrepo.com/show/502443/television.svg,Bollywood Latest Movies 2
-https://vt-ip.vodep39240327.workers.dev/2529.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png", 9X Jalwa
+https://vt-ip.vodep39240327.workers.dev/505.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png", 9XM
+https://vt-ip.vodep39240327.workers.dev/506.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png", Aaj Tak
 https://vt-ip.vodep39240327.workers.dev/471.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png", Aastha
+https://vt-ip.vodep39240327.workers.dev/524.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png", Aastha Bhajan
+https://vt-ip.vodep39240327.workers.dev/526.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png", ABP News
+https://vt-ip.vodep39240327.workers.dev/478.m3u8
