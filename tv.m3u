@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FailArmy.us@US",Big Boss
+https://vt-ip.vodep39240327.workers.dev/2877.m3u8
+#EXTINF:-1 tvg-id="GoUSATV.us@SD",Hindi Hits
+https://vt-ip.vodep39240327.workers.dev/1958.m3u8
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD",Vision Beats
+https://vt-ip.vodep39240327.workers.dev/1955.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@India",All Day Movies
+https://vt-ip.vodep39240327.workers.dev/2525.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.in@SD",Bollywood Latest Movies 1
+https://vt-ip.vodep39240327.workers.dev/2528.m3u8
+#EXTINF:-1 tvg-id="https://cdn-icons-png.flaticon.com/128/3799/3799804.png",Bollywood Latest Movies 2
+https://vt-ip.vodep39240327.workers.dev/2529.m3u8
