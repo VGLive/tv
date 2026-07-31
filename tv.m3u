@@ -5,6 +5,8 @@ https://vt-ip.vodep39240327.workers.dev/1722.m3u8
 https://vt-ip.vodep39240327.workers.dev/394.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png", &TV HD
 https://vt-ip.vodep39240327.workers.dev/1699.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png", &Xplor HD
+https://vt-ip.vodep39240327.workers.dev/1702.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png", 9X Jalwa
 https://vt-ip.vodep39240327.workers.dev/505.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png", 9XM
@@ -25,3 +27,5 @@ https://vt-ip.vodep39240327.workers.dev/2256.m3u8
 https://vt-ip.vodep39240327.workers.dev/458.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png", B4U Music
 https://vt-ip.vodep39240327.workers.dev/1822.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar.png", Bhakti Sagar
+https://vt-ip.vodep39240327.workers.dev/534.m3u8
