@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png", &Flix HD
+https://vt-ip.vodep39240327.workers.dev/1722.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png", &Pictures HD
+https://vt-ip.vodep39240327.workers.dev/394.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png", &TV HD
+https://vt-ip.vodep39240327.workers.dev/1699.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png", 9X Jalwa
 https://vt-ip.vodep39240327.workers.dev/505.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png", 9XM
@@ -11,11 +17,5 @@ https://vt-ip.vodep39240327.workers.dev/524.m3u8
 https://vt-ip.vodep39240327.workers.dev/526.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png", ABP News
 https://vt-ip.vodep39240327.workers.dev/478.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png", &Flix HD
-https://vt-ip.vodep39240327.workers.dev/1722.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png", &Pictures HD
-https://vt-ip.vodep39240327.workers.dev/394.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png", &TV HD
-https://vt-ip.vodep39240327.workers.dev/1699.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png", Animal Planet HD World
 https://vt-ip.vodep39240327.workers.dev/1728.m3u8
