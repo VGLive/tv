@@ -21,3 +21,7 @@ https://vt-ip.vodep39240327.workers.dev/478.m3u8
 https://vt-ip.vodep39240327.workers.dev/1728.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png", B4U Kadak
 https://vt-ip.vodep39240327.workers.dev/2256.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png", B4U Movies
+https://vt-ip.vodep39240327.workers.dev/458.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png", B4U Music
+https://vt-ip.vodep39240327.workers.dev/1822.m3u8
