@@ -29,3 +29,9 @@ https://vt-ip.vodep39240327.workers.dev/458.m3u8
 https://vt-ip.vodep39240327.workers.dev/1822.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar.png", Bhakti Sagar
 https://vt-ip.vodep39240327.workers.dev/534.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png", Colors Cineplex HD
+https://vt-ip.vodep39240327.workers.dev/2552.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", Colors Infinity HD
+https://vt-ip.vodep39240327.workers.dev/1830.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png", Colors Rishtey
+https://vt-ip.vodep39240327.workers.dev/428.m3u8
