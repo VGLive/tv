@@ -9738,6 +9738,15 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png"
   },
   {
+    "name": "Sony Sports Ten 2 HD",
+    "id": "3373",
+    "category": "Sports",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd",
+    "keyId": "91fce77f2f8056f084ed961c7ebe86ed",
+    "key": "8214bd5eb6c21444e8ea644824affd79",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png"
+  },
+  {
     "name": "Sony LIV Sports 3",
     "id": "3374",
     "category": "Sports",
