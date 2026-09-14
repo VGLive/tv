@@ -193,8 +193,8 @@
     "id": "291",
     "category": "Entertainment",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_MOB/WDVLive/index.mpd",
-    "keyId": "17baf7d2f243c3aa85f5203137aad6da",
-    "key": "15d0fb6df895c4d18368f5058f207511",
+    "keyId": "null",
+    "key": "null",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"
   },
   {
@@ -241,15 +241,6 @@
     "keyId": "ba4d9b38517552de9654d3652d27933b",
     "key": "31e7cbf3d289d3116386457ed8bac3a2",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png"
-  },
-  {
-    "name": "Anmol TV",
-    "id": "473",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmol_MOB/WDVLive/index.mpd",
-    "keyId": "dc1c10d157cd56d5a7feaf6540578860",
-    "key": "227a41f602baeac002e6cdc46c000e19",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png"
   },
   {
     "name": "Sony Pal",
@@ -504,15 +495,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png"
   },
   {
-    "name": "DD India",
-    "id": "528",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_India_MOB/WDVLive/index.mpd",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png"
-  },
-  {
     "name": "News18 MP Chhattisgarh",
     "id": "529",
     "category": "News",
@@ -547,33 +529,6 @@
     "keyId": "45c14653eebe5a82a0ebdbab4e1ff826",
     "key": "6005db84eb31702d9b3ac840848c6864",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png"
-  },
-  {
-    "name": "DD Madhya Pradesh",
-    "id": "536",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Madhya_Pradesh_MOB/WDVLive/index.mpd",
-    "keyId": "391206c7de8a54b58499b9e8097e3694",
-    "key": "a0d96bf7b37bfc54907863300bea5dbf",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png"
-  },
-  {
-    "name": "DD Rajasthan (Jaipur)",
-    "id": "538",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Rajasthan_Jaipur_MOB/WDVLive/index.mpd",
-    "keyId": "b9d582dc9cf558ab91536ddef494e5f9",
-    "key": "450dafd4dfa4e35afadaeb4b229fc108",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png"
-  },
-  {
-    "name": "DD Bihar",
-    "id": "539",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Bihar_MOB/WDVLive/index.mpd",
-    "keyId": "d5530633810a5dfa9500cbe5131bf52d",
-    "key": "71ce30bd40e97ad61a0db640ce2d72e9",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png"
   },
   {
     "name": "DD Uttar Pradesh",
@@ -1314,15 +1269,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png"
   },
   {
-    "name": "Arre HD",
-    "id": "963",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Arre_MOB/WDVLive/index.mpd",
-    "keyId": "ecebe6ebc07751bca001e504899f5c49",
-    "key": "a5b5ee59e450a59fb430da4e3bdc68b2",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png"
-  },
-  {
     "name": "Jantantra",
     "id": "975",
     "category": "News",
@@ -1330,24 +1276,6 @@
     "keyId": "a00da9d705815d75996f6d0a62c909da",
     "key": "f7b25e2a182874383f2612cd65152175",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png"
-  },
-  {
-    "name": "TEST1 HD",
-    "id": "978",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TEST1_HD_MOB/WDVLive/index.mpd",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST1_HD.png"
-  },
-  {
-    "name": "TEST2 HD",
-    "id": "979",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TEST2_HD_MOB/WDVLive/index.mpd",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST2_HD.png"
   },
   {
     "name": "TEST3 HD",
@@ -1584,42 +1512,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png"
   },
   {
-    "name": "DD Arunprabha",
-    "id": "1328",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Arunprabha_MOB/WDVLive/index.mpd",
-    "keyId": "2cf5c31754515db797cd2b0f0afd4333",
-    "key": "359feab82de055853ef5c7e847c21b0a",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Arunprabha.png"
-  },
-  {
-    "name": "DD Gyandarshan",
-    "id": "1329",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd",
-    "keyId": "8f80b1ad2b6c547da3c61f19b4e4e420",
-    "key": "45c52fab02793483c113ffae73b83afa",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Gyandarshan.png"
-  },
-  {
-    "name": "Zee TV",
-    "id": "1351",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTV_MOB/WDVLive/index.mpd",
-    "keyId": "284db1a465ee50c081b7fa9735c4e000",
-    "key": "26d05a4a82a0d6eb317dd861a06d746c",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png"
-  },
-  {
-    "name": "Big Magic",
-    "id": "1359",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/BigMagic_MOB/WDVLive/index.mpd",
-    "keyId": "ec8cb7b1b9505fea9ff1015b45991f93",
-    "key": "03fe78d2402fe22a47eb55f2cce8a85b",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png"
-  },
-  {
     "name": "Colors SD",
     "id": "1368",
     "category": "Entertainment",
@@ -1762,15 +1654,6 @@
     "keyId": "714b712905915204b6f9d7533f055c45",
     "key": "77d030882c07d5d82cca366a34c2bcd0",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST11_HD.png"
-  },
-  {
-    "name": "TEST12 HD",
-    "id": "1476",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TEST12_HD_MOB/WDVLive/index.mpd",
-    "keyId": "4cbf818f1a3c50cc8649e31cdb6ec6f5",
-    "key": "98236e4869417879af271f970ed20d3f",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST12_HD.png"
   },
   {
     "name": "Colors Cineplex HD",
@@ -2160,15 +2043,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png"
   },
   {
-    "name": "Green Chillies",
-    "id": "1834",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Green_Chillies_TV_MOB/WDVLive/index.mpd",
-    "keyId": "7b4e1eff40cb5f6eb58e9ad41de6155c",
-    "key": "ccb45be45820dec7b36d1629af43bcbd",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png"
-  },
-  {
     "name": "And Pictures",
     "id": "1839",
     "category": "Movies",
@@ -2383,24 +2257,6 @@
     "keyId": "abfb2f881f5155d2a91ee8b93846ff6c",
     "key": "fbc8bd7e0b893cbe0fe6d1683a20c9d6",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png"
-  },
-  {
-    "name": "Gangaur",
-    "id": "2077",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Gangaur/HLSPartner/index.m3u8",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png"
-  },
-  {
-    "name": "Shemaroo Umang",
-    "id": "2078",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Shemaroo_Umang_MOB/WDVLive/index.mpd",
-    "keyId": "5490bfda5a1259dc81cac2b8bc29136b",
-    "key": "e0b2192dd81105e3012a33a79c3c62d3",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png"
   },
   {
     "name": "Bharat 24",
@@ -2799,15 +2655,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Hour.png"
   },
   {
-    "name": "Unique TV",
-    "id": "3022",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Unique_Tv_MOB/WDVLive/index.mpd",
-    "keyId": "fc9f48f9ec80513c9687deb1a6fd061c",
-    "key": "15d9d6704bbf6beb20190a2bc232603f",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png"
-  },
-  {
     "name": "India TV Yoga Channel",
     "id": "3024",
     "category": "News",
@@ -2842,15 +2689,6 @@
     "keyId": "540244f53a795ad1a5d9abc64672b83a",
     "key": "584638cd879c779e9a13c738abb08c25",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BHStyle_Icon.png"
-  },
-  {
-    "name": "Bollywood Masala",
-    "id": "3029",
-    "category": "Entertainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/bollywoodmasala/HLSPartner/index.m3u8",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/bollywoodmasala.png"
   },
   {
     "name": "Pogo Kannada",
