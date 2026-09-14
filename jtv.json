@@ -567,15 +567,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png"
   },
   {
-    "name": "Times Now World",
-    "id": "876",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Times_Now_HD_MOB/WDVLive/index.mpd",
-    "keyId": "52052ddade78595fa7aa099f23e68c50",
-    "key": "d8041451c3d87390b3355b6d8791ec30",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png"
-  },
-  {
     "name": "MNX HD",
     "id": "877",
     "category": "English",
