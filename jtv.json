@@ -272,7 +272,7 @@
   {
     "name": "Investigation Discovery Hindi",
     "id": "527",
-    "category": "Unknown",
+    "category": "Infotainment",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDHindi_MOB/WDVLive/index.mpd",
     "keyId": "9aef395dfa3c501f9bacf0ccf76ef6da",
     "key": "76e1fc47cd666d195437df8662a977db",
@@ -506,7 +506,7 @@
   {
     "name": "Sony BBC Earth HD English",
     "id": "852",
-    "category": "Unknown",
+    "category": "English",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd",
     "keyId": "1552919e6aab593486923334022a0adc",
     "key": "5365d8f2afcfbfeccfbff08db7f671fe",
@@ -992,16 +992,16 @@
   {
     "name": "EPIC TV",
     "id": "3382",
-    "category": "Unknown",
+    "category": "Entertainment",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/EPIC_TV_MOB/WDVLive/index.mpd",
     "keyId": "0384122132e151639aafddeb8bd1a50b",
     "key": "f9be8660035eecbca5ae015adb73fe7b",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/EPIC_TV.png"
   },
   {
-    "name": "Nazara",
+    "name": "EPIC Bharat",
     "id": "3383",
-    "category": "Unknown",
+    "category": "Entertainment",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nazara_MOB/WDVLive/index.mpd",
     "keyId": "531f0c69be995cc88d05324b15af383f",
     "key": "d8492685fcdc3d1367e86cfc5b685e07",
@@ -1010,7 +1010,7 @@
   {
     "name": "EPIC Bhojpuri",
     "id": "3384",
-    "category": "Unknown",
+    "category": "Bhojpuri",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Filamchi_Bhojpuri_MOB/WDVLive/index.mpd",
     "keyId": "cff5580392c052a78302a940e350b02b",
     "key": "c4983c9e5cb98a14973664d0791a15bb",
@@ -1073,7 +1073,7 @@
   {
     "name": "Animal Planet HD Hindi",
     "id": "3451",
-    "category": "Unknown",
+    "category": "Infotainment",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_MOB/WDVLive/index.mpd",
     "keyId": "6920695b57925f3a94588dfee72e8b1c",
     "key": "9b5192a1a4b5b408291ba2fe104d6ac8",
@@ -1082,7 +1082,7 @@
   {
     "name": "Investigation Discovery English",
     "id": "3452",
-    "category": "Unknown",
+    "category": "English",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDEnglish_MOB/WDVLive/index.mpd",
     "keyId": "4b962057a46e5a0a9ba877a71b3e4bc8",
     "key": "3d7327305c44a64dee1bf6f9a3618bf8",
@@ -1109,7 +1109,7 @@
   {
     "name": "Shree Salangpur Dham",
     "id": "3519",
-    "category": "Unknown",
+    "category": "Devotional",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ShreeSalangpurDham_MOB/WDVLive/index.mpd",
     "keyId": "086e2566f4105528a46f3694569e6443",
     "key": "8471dec984bfe424b37b5dfb4def7123",
