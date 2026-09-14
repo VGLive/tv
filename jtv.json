@@ -1001,7 +1001,7 @@
   {
     "name": "Jay Jagannath",
     "id": "3115",
-    "category": "English",
+    "category": "Devotional",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jay_Jagannath_MOB/WDVLive/index.mpd",
     "keyId": "52583c0857a657dabc597df28371f9eb",
     "key": "417cb4b124ad28ceb1fe6a0d7cefb1c5",
@@ -1015,15 +1015,6 @@
     "keyId": "8f7f3239c37f521ba1804aebdcd7404a",
     "key": "516e21012c50b8e6c51b297b07bb0675",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png"
-  },
-  {
-    "name": "News Nation 81",
-    "id": "3181",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_Nation_81_MOB/WDVLive/index.mpd",
-    "keyId": "d18a669f397a5fed97ba2be110b10bb9",
-    "key": "5d044e85acfc81662fad0bccec2be794",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation_81.png"
   },
   {
     "name": "Pickleball Now",
