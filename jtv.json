@@ -216,15 +216,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png"
   },
   {
-    "name": "MN+ HD",
-    "id": "477",
-    "category": "English",
-    "url": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
-    "keyId": "40f019b86241d23ef075633fd7f1e927",
-    "key": "058dec845bd340178a388edd104a015e",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png"
-  },
-  {
     "name": "TLC HD English",
     "id": "479",
     "category": "English",
