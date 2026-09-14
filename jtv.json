@@ -540,15 +540,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png"
   },
   {
-    "name": "Eurosport HD",
-    "id": "875",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_HD_MOB/WDVLive/index.mpd",
-    "keyId": "b3bcfaeae129566f80a3afb2b533f917",
-    "key": "6843545622aa27cab11368ffb3cae72a",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png"
-  },
-  {
     "name": "MNX HD",
     "id": "877",
     "category": "English",
@@ -655,15 +646,6 @@
     "keyId": "e30e813ab8935734a197205da8a5fd80",
     "key": "462b1cd9a1e74b6af3132e04fc307094",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png"
-  },
-  {
-    "name": "JioGames HD",
-    "id": "1163",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Esports_HD_MOB/WDVLive/index.mpd",
-    "keyId": "17df4d1c15ab5fcb88dc46f94e16412c",
-    "key": "f5ff1078996afe0b18841250f3f8cf9a",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png"
   },
   {
     "name": "Hare Krsna Music",
@@ -972,24 +954,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jay_Jagannath.png"
   },
   {
-    "name": "All Women's Sports Network",
-    "id": "3146",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AWSN_MOB/WDVLive/index.mpd",
-    "keyId": "8f7f3239c37f521ba1804aebdcd7404a",
-    "key": "516e21012c50b8e6c51b297b07bb0675",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png"
-  },
-  {
-    "name": "Pickleball Now",
-    "id": "3243",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Pickleball_Now_MOB/WDVLive/index.mpd",
-    "keyId": "fc418df9af225e18a8fc6278a6e9cd75",
-    "key": "64cf8bec9b8133a32187241bba87d635",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pickleball_Now.png"
-  },
-  {
     "name": "Sony Sports Ten 1",
     "id": "3372",
     "category": "Sports",
@@ -1150,14 +1114,5 @@
     "keyId": "086e2566f4105528a46f3694569e6443",
     "key": "8471dec984bfe424b37b5dfb4def7123",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ShreeSalangpurDham.png"
-  },
-  {
-    "name": "Sony Liv Sports 4 Kannada",
-    "id": "3528",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLivSports4Kan_MOB/WDVLive/index.mpd",
-    "keyId": "11ea8c4152bd55f19ecf2fcecaadf14d",
-    "key": "e1cd78b9fc344ad20e873cff3c2354f0",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLivSports4Kan.png"
   }
 ]
