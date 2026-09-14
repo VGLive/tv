@@ -405,15 +405,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png"
   },
   {
-    "name": "E 24",
-    "id": "591",
-    "category": "Music",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/E_24_MOB/WDVLive/index.mpd",
-    "keyId": "00ca7fea402a577f9fa7acf42f44af0b",
-    "key": "f2513e4d0a1ad05a97cc36e550cb799d",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png"
-  },
-  {
     "name": "ZOOM",
     "id": "592",
     "category": "Music",
@@ -916,15 +907,6 @@
     "keyId": "1f085238887f54919b2200490bdbd752",
     "key": "80437df07147ec86080be4424fadf259",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png"
-  },
-  {
-    "name": "Saga Music Haryanvi",
-    "id": "2751",
-    "category": "Music",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Saga_Music_Haryanvi_MOB/WDVLive/index.mpd",
-    "keyId": "42ecabde93eb533b9a58f9eeeccb8c59",
-    "key": "fe53fe064de89581cdcf8b65800f2ab6",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png"
   },
   {
     "name": "YRF Music",
