@@ -324,15 +324,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png"
   },
   {
-    "name": "GOOD TiMES",
-    "id": "560",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_Good_Times_MOB/WDVLive/index.mpd",
-    "keyId": "9e19a0d2ae5e5123b03fd29fcb7e6e16",
-    "key": "ced94c8516a1983cd2550f42a064f624",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png"
-  },
-  {
     "name": "Food Food",
     "id": "561",
     "category": "Lifestyle",
