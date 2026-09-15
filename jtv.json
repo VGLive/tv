@@ -243,15 +243,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png"
   },
   {
-    "name": "Investigation Discovery Hindi",
-    "id": "527",
-    "category": "Infotainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDHindi_MOB/WDVLive/index.mpd",
-    "keyId": "9aef395dfa3c501f9bacf0ccf76ef6da",
-    "key": "76e1fc47cd666d195437df8662a977db",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png"
-  },
-  {
     "name": "Nick Junior",
     "id": "544",
     "category": "English",
@@ -972,15 +963,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHDHindi.png"
   },
   {
-    "name": "Investigation Discovery HD English",
-    "id": "3435",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDHDEnglish_MOB/WDVLive/index.mpd",
-    "keyId": "5555bb6e75ad57dba4725a22dc693f84",
-    "key": "3a99fd02b7c677cfafcda9018372b6ae",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHDEnglish.png"
-  },
-  {
     "name": "Cartoon Network HD+ Hindi",
     "id": "3436",
     "category": "Kids",
@@ -1006,15 +988,6 @@
     "keyId": "6920695b57925f3a94588dfee72e8b1c",
     "key": "9b5192a1a4b5b408291ba2fe104d6ac8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png"
-  },
-  {
-    "name": "Investigation Discovery English",
-    "id": "3452",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDEnglish_MOB/WDVLive/index.mpd",
-    "keyId": "4b962057a46e5a0a9ba877a71b3e4bc8",
-    "key": "3d7327305c44a64dee1bf6f9a3618bf8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDEnglish.png"
   },
   {
     "name": "Discovery Science Hindi",
