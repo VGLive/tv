@@ -684,15 +684,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png"
   },
   {
-    "name": "History TV18",
-    "id": "1471",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd",
-    "keyId": "fc8bda6bd61954d69d7d07a31d1af972",
-    "key": "0555191ba0e5e4a58f13ef9fec2adcb1",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png"
-  },
-  {
     "name": "Colors Cineplex HD",
     "id": "1477",
     "category": "Movies",
