@@ -99,15 +99,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png"
   },
   {
-    "name": "Discovery English",
-    "id": "242",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Eng_MOB/WDVLive/index.mpd",
-    "keyId": "1025acf964795689982726e2d16a73c5",
-    "key": "d88575df3e3d1adb7a82da65f0000aa6",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png"
-  },
-  {
     "name": "Music India",
     "id": "250",
     "category": "Music",
@@ -169,15 +160,6 @@
     "keyId": "f473851b89455b53a98f73f6592d63c2",
     "key": "3185c90e3f2b9a4932644cad4a70dab4",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png"
-  },
-  {
-    "name": "Discovery HD English",
-    "id": "463",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDEng_MOB/WDVLive/index.mpd",
-    "keyId": "a2a9c24afabd5fe0aa2ce9d4fa09f892",
-    "key": "8d1869108cc2ee010b756662ee8ec65e",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDEng.png"
   },
   {
     "name": "Sony SAB HD",
@@ -349,15 +331,6 @@
     "keyId": "3c7c24510783535b881316714dbcf969",
     "key": "65c80b05551424532dae2c2da73ef7d8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCEnglish.png"
-  },
-  {
-    "name": "Discovery Hindi",
-    "id": "575",
-    "category": "Infotainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_MOB/WDVLive/index.mpd",
-    "keyId": "a77c9893335a5c7da2b32343d0dfff50",
-    "key": "26d646a63b8b006dd1317ce69e2132e6",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png"
   },
   {
     "name": "History TV18 HD Hindi",
