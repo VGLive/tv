@@ -144,15 +144,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png"
   },
   {
-    "name": "Animal Planet HD English",
-    "id": "286",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd",
-    "keyId": "aafd067e9c3e50c4b25c239373b92103",
-    "key": "4a3162f66c9bb5e24d05873bf7aa05f2",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png"
-  },
-  {
     "name": "Sanskar",
     "id": "288",
     "category": "Devotional",
@@ -331,24 +322,6 @@
     "keyId": "e66075d32ada52f1a8160bc1c7e86375",
     "key": "1bd48d53d027a73a9b8f69469f8be19f",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png"
-  },
-  {
-    "name": "Animal Planet Hindi",
-    "id": "566",
-    "category": "Infotainment",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHin_MOB/WDVLive/index.mpd",
-    "keyId": "36a58e03204353d8a081ca60edce2fff",
-    "key": "fb8bd1208c9055648d83ed963764c783",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHin.png"
-  },
-  {
-    "name": "Animal Planet English",
-    "id": "567",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetEng_MOB/WDVLive/index.mpd",
-    "keyId": "1450e9d1c9a55f1286de4248af9cea63",
-    "key": "0166ba733e295ded7095629c33790c0e",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetEng.png"
   },
   {
     "name": "Discovery Science English",
