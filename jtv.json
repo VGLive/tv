@@ -819,15 +819,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jay_Jagannath.png"
   },
   {
-    "name": "Sony Sports Ten 1",
-    "id": "3372",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
-    "keyId": "3394be91407c5fe99d784d2f2d6d4a12",
-    "key": "58665e1df41f9f22ed73c56384bb3f51",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png"
-  },
-  {
     "name": "Sony Sports Ten 1 HD",
     "id": "3372",
     "category": "Sports",
@@ -835,15 +826,6 @@
     "keyId": "3525c924e54154b39533d86b1c7a428a",
     "key": "8548b566fc6608a7d3bd601ee5f3d889",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png"
-  },
-  {
-    "name": "Sony Sports Ten 2",
-    "id": "3373",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd",
-    "keyId": "671ce7c8ccc95e0a95cba0d12831d12e",
-    "key": "175d284c9647b6feb379e7c1650a4f82",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png"
   },
   {
     "name": "Sony Sports Ten 2 HD",
@@ -855,15 +837,6 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png"
   },
   {
-    "name": "Sony Sports Ten 3",
-    "id": "3373",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd",
-    "keyId": "68318f7c97c55ba6ab8d0398a88fed3e",
-    "key": "d312fb3325b4eb9462b4a0d2b6794adf",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png"
-  },
-  {
     "name": "Sony Sports Ten 3 HD",
     "id": "3373",
     "category": "Sports",
@@ -871,15 +844,6 @@
     "keyId": "111e6908b965566e97139efddf7ef459",
     "key": "c87903abbc052e1f21e51ebd928d9cb1",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png"
-  },
-  {
-    "name": "Sony Sports Ten 5",
-    "id": "3373",
-    "category": "Sports",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd",
-    "keyId": "d2d8709de11d5955b60c57d3c955733e",
-    "key": "7655200b24bf82808fb8addf2f02847b",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png"
   },
   {
     "name": "Sony Sports Ten 5 HD",
