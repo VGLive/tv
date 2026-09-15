@@ -180,15 +180,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png"
   },
   {
-    "name": "TLC HD English",
-    "id": "479",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_MOB/WDVLive/index.mpd",
-    "keyId": "a7a544c972e7520fbe89f80191c21a7b",
-    "key": "f7e753d587b7e33814e6eeb2a4c97d99",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHDEnglish.png"
-  },
-  {
     "name": "Sony MAX2",
     "id": "483",
     "category": "Movies",
@@ -277,24 +268,6 @@
     "keyId": "e66075d32ada52f1a8160bc1c7e86375",
     "key": "1bd48d53d027a73a9b8f69469f8be19f",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png"
-  },
-  {
-    "name": "TLC Hindi",
-    "id": "571",
-    "category": "Lifestyle",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHindi_MOB/WDVLive/index.mpd",
-    "keyId": "e50aa8136d3f58bc97b00d2cc9e6517e",
-    "key": "c5be8d5c21caee8ec290d4ac6a558b22",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHindi.png"
-  },
-  {
-    "name": "TLC English",
-    "id": "574",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCEnglish_MOB/WDVLive/index.mpd",
-    "keyId": "3c7c24510783535b881316714dbcf969",
-    "key": "65c80b05551424532dae2c2da73ef7d8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCEnglish.png"
   },
   {
     "name": "History TV18 HD Hindi",
