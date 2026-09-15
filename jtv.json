@@ -639,15 +639,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png"
   },
   {
-    "name": "Colors Infinity SD",
-    "id": "1325",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_MOB/WDVLive/index.mpd",
-    "keyId": "0182f1ff69df5a58b5073d1bbc24fa8f",
-    "key": "1aaad81489784cef4402f4e1e6fea612",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png"
-  },
-  {
     "name": "Colors SD",
     "id": "1368",
     "category": "Entertainment",
