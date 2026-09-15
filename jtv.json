@@ -459,15 +459,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png"
   },
   {
-    "name": "Cartoon Network Hindi",
-    "id": "816",
-    "category": "Kids",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_MOB/WDVLive/index.mpd",
-    "keyId": "dfdcfe466f865e51ac6b9345a03478fc",
-    "key": "4cfddb414841586f0f992f2810ec2931",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHindi.png"
-  },
-  {
     "name": "Shubh TV",
     "id": "828",
     "category": "Devotional",
@@ -547,15 +538,6 @@
     "keyId": "99b19786d28e5de3a9454c9ebad2db07",
     "key": "dc777262306280b0e41274ebd02c146b",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar.png"
-  },
-  {
-    "name": "Cartoon Network HD+ English",
-    "id": "1079",
-    "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNHDEnglish_MOB/WDVLive/index.mpd",
-    "keyId": "c9c415719be55a75b6533d2b4eed6269",
-    "key": "23a7fab44583dfa0ff91c57324448b63",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDEnglish.png"
   },
   {
     "name": "Star Movies HD",
